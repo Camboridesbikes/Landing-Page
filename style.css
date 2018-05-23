@@ -1,0 +1,26 @@
+html{
+  height:100%;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url(bg.jpeg);
+  background-size: cover;
+  min-height: 100%;
+}
+div.main{
+  height: 100%
+}
+h1{
+  font-family: 'Special Elite', cursive;
+  color: white;
+
+}
+
+.btn-outline-light{
+  font-family: 'Oswald', sans-serif;
+  margin-top: .75rem;
+  background-color: rgba(191, 191, 191, .25);
+    font-weight: bold; 
+}
